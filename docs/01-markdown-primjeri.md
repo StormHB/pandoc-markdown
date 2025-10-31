@@ -60,7 +60,7 @@ Naredba `nano` je korisna.
 ## Poveznice
 Tekst linka ide u uglate( [] ), a URL u okrugle ( () ) zagrade, i možete dodati i tooltip(naslov).
 ```
-Posjetite [StormHB GitHub profil](https://stormhb.github.io/pandoc-markdown/ "Moj GitHub profil")
+Posjetite [StormHB Markdown guide](https://stormhb.github.io/pandoc-markdown/ "Moj Markdown vodič")
 ```
 
 ## Slike
