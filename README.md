@@ -1,3 +1,9 @@
+---
+title: Pandoc i Markdown
+author: Martin Prtenjača
+date: 31.10.2025.
+description: Dokumentacija koja se koristi da nauči korisnika primjenjivati Pandoc i Markdown za konverziju datoteka i izradu tehničke dokumentacije
+---
 # 🍕 Uvod u Pandoc i Markdown 🍕
 Ova dokumentacija služi u svrhu primjene Pandoca za konverziju datoteka, odnosno markdowna za izrade tehničke dokumentacije.
 
