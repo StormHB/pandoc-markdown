@@ -30,7 +30,7 @@ pandoc input.md -o output.pdf
 ```
 - pandoc -> pali i poziva pandoc konverter za dokumente
 - input.md -> označava datoteku koju želimo mijenjati
-- output.pdf -> kaže ime nove datoteke
+- -o output.pdf -> kaže ime nove datoteke
 
 ### .md → .docx
 ```
@@ -38,7 +38,7 @@ pandoc input.md -o output.docx
 ```
 - pandoc -> pali i poziva pandoc konverter za dokumente
 - input.md -> označava datoteku koju želimo mijenjati
-- output.docx -> kaže ime nove datoteke
+- -o output.docx -> kaže ime nove datoteke
 
 ### Korisni linkovi
 - [Pandoc](https://pandoc.org/)
