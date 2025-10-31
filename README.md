@@ -13,3 +13,4 @@ Ova dokumentacija služi u svrhu primjene Pandoca za konverziju datoteka, odnosn
 
 <img src="Tux.png" width="30%" height="30%">
 
+[CHANGELOG](docs/CHANGELOG.md)
